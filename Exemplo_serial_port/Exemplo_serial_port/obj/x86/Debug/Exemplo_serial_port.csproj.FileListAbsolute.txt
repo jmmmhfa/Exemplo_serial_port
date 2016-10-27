@@ -1,0 +1,35 @@
+D:\Programar em C#\Exemplo_serial_port\Exemplo_serial_port\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Programar em C#\Exemplo_serial_port\Exemplo_serial_port\obj\x86\Debug\Exemplo_serial_port.Form1.resources
+D:\Programar em C#\Exemplo_serial_port\Exemplo_serial_port\obj\x86\Debug\Exemplo_serial_port.Properties.Resources.resources
+D:\Programar em C#\Exemplo_serial_port\Exemplo_serial_port\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\Programar em C#\Exemplo_serial_port\Exemplo_serial_port\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\Programar em C#\Exemplo_serial_port\Exemplo_serial_port\bin\Debug\Exemplo_serial_port.exe
+D:\Programar em C#\Exemplo_serial_port\Exemplo_serial_port\bin\Debug\Exemplo_serial_port.pdb
+D:\Programar em C#\Exemplo_serial_port\Exemplo_serial_port\obj\x86\Debug\Exemplo_serial_port.exe
+D:\Programar em C#\Exemplo_serial_port\Exemplo_serial_port\obj\x86\Debug\Exemplo_serial_port.pdb
+L:\C-Sharp\Exemplo_serial_port\Exemplo_serial_port\Exemplo_serial_port\obj\x86\Debug\Exemplo_serial_port.exe
+L:\C-Sharp\Exemplo_serial_port\Exemplo_serial_port\Exemplo_serial_port\obj\x86\Debug\Exemplo_serial_port.pdb
+C:\Users\mlima\Desktop\Exemplo_serial_port\Exemplo_serial_port\Exemplo_serial_port\obj\x86\Debug\Exemplo_serial_port.exe
+C:\Users\mlima\Desktop\Exemplo_serial_port\Exemplo_serial_port\Exemplo_serial_port\obj\x86\Debug\Exemplo_serial_port.pdb
+C:\Users\mlima\Desktop\Exemplo_serial_port\Exemplo_serial_port\Exemplo_serial_port\bin\Debug\Exemplo_serial_port.exe
+C:\Users\mlima\Desktop\Exemplo_serial_port\Exemplo_serial_port\Exemplo_serial_port\bin\Debug\Exemplo_serial_port.pdb
+C:\Users\mlima\Desktop\Exemplo_serial_port\Exemplo_serial_port\Exemplo_serial_port\obj\x86\Debug\Exemplo_serial_port.csprojResolveAssemblyReference.cache
+C:\Users\mlima\Desktop\Exemplo_serial_port\Exemplo_serial_port\Exemplo_serial_port\obj\x86\Debug\Exemplo_serial_port.Form1.resources
+C:\Users\mlima\Desktop\Exemplo_serial_port\Exemplo_serial_port\Exemplo_serial_port\obj\x86\Debug\Exemplo_serial_port.Properties.Resources.resources
+C:\Users\mlima\Desktop\Exemplo_serial_port\Exemplo_serial_port\Exemplo_serial_port\obj\x86\Debug\Exemplo_serial_port.csproj.GenerateResource.Cache
+C:\Users\Marco Lima\Desktop\C#\Exemplo_serial_port\Exemplo_serial_port\Exemplo_serial_port\obj\x86\Debug\Exemplo_serial_port.exe
+C:\Users\Marco Lima\Desktop\C#\Exemplo_serial_port\Exemplo_serial_port\Exemplo_serial_port\obj\x86\Debug\Exemplo_serial_port.pdb
+C:\Users\Marco Lima\Desktop\C#\Exemplo_serial_port\Exemplo_serial_port\Exemplo_serial_port\bin\Debug\Exemplo_serial_port.exe
+C:\Users\Marco Lima\Desktop\C#\Exemplo_serial_port\Exemplo_serial_port\Exemplo_serial_port\bin\Debug\Exemplo_serial_port.pdb
+C:\Users\Marco Lima\Desktop\C#\Exemplo_serial_port\Exemplo_serial_port\Exemplo_serial_port\obj\x86\Debug\Exemplo_serial_port.csprojResolveAssemblyReference.cache
+C:\Users\Marco Lima\Desktop\C#\Exemplo_serial_port\Exemplo_serial_port\Exemplo_serial_port\obj\x86\Debug\Exemplo_serial_port.Form1.resources
+C:\Users\Marco Lima\Desktop\C#\Exemplo_serial_port\Exemplo_serial_port\Exemplo_serial_port\obj\x86\Debug\Exemplo_serial_port.Properties.Resources.resources
+C:\Users\Marco Lima\Desktop\C#\Exemplo_serial_port\Exemplo_serial_port\Exemplo_serial_port\obj\x86\Debug\Exemplo_serial_port.csproj.GenerateResource.Cache
+C:\Users\hfauser\Desktop\Exemplo_serial_port\Exemplo_serial_port\Exemplo_serial_port\obj\x86\Debug\Exemplo_serial_port.exe
+C:\Users\hfauser\Desktop\Exemplo_serial_port\Exemplo_serial_port\Exemplo_serial_port\obj\x86\Debug\Exemplo_serial_port.pdb
+C:\Users\hfauser\Desktop\Exemplo_serial_port\Exemplo_serial_port\Exemplo_serial_port\bin\Debug\Exemplo_serial_port.exe
+C:\Users\hfauser\Desktop\Exemplo_serial_port\Exemplo_serial_port\Exemplo_serial_port\bin\Debug\Exemplo_serial_port.pdb
+C:\Users\hfauser\Desktop\Exemplo_serial_port\Exemplo_serial_port\Exemplo_serial_port\obj\x86\Debug\Exemplo_serial_port.csprojResolveAssemblyReference.cache
+C:\Users\hfauser\Desktop\Exemplo_serial_port\Exemplo_serial_port\Exemplo_serial_port\obj\x86\Debug\Exemplo_serial_port.Form1.resources
+C:\Users\hfauser\Desktop\Exemplo_serial_port\Exemplo_serial_port\Exemplo_serial_port\obj\x86\Debug\Exemplo_serial_port.Properties.Resources.resources
+C:\Users\hfauser\Desktop\Exemplo_serial_port\Exemplo_serial_port\Exemplo_serial_port\obj\x86\Debug\Exemplo_serial_port.csproj.GenerateResource.Cache
